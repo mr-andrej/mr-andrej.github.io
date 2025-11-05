@@ -4,7 +4,7 @@ description: "Academic background and professional certifications"
 ---
 
 ## Master of Science Cloud Computing (BAC + 5 / Master's)
-**Epitech** | September 2024 – Present
+**Epitech** | September 2025 – Present
 
 Excellence program in cloud computing: this intensive and immersive program provides in-depth mastery of cloud processes adapted to finance, including:
 
