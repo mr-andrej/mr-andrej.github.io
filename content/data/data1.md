@@ -1,4 +1,4 @@
----
+﻿---
 title: "List of Irregular Verbs Across Romance Languages" 
 date: 2013-03-07
 tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
@@ -15,7 +15,7 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)â€”including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 
@@ -124,9 +124,9 @@ print(f"Maximum Value: {max_value}")
 
 | Parameter |   Value   |  Language  | Time period |           Description            |
 | :-------: | :-------: | ---------- | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
-| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |
+|  $\alpha$ |   $1/2$   | French     |  1930â€“1954  |         Tempor dolor in          |
+| $\lambda$ |   $e/2$   | French     |  1930â€“1954  |       Fugiat sint occaecat       |
+|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833â€“1954  |      Duis officia deserunt       |
+|  $\omega$ | $10^{-4}$ | Italian    |  1930â€“1994  | Excepteur et dolore magna aliqua |
+|  $\sigma$ |   $1.5$   | Portuguese |  1990â€“2023  |         Lorem culpa qui          |
+|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990â€“2023  |         Labore et dolore         |
