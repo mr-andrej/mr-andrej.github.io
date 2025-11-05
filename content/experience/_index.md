@@ -4,7 +4,7 @@ description: "Full-Stack Developer with experience in financial services and hea
 ---
 
 ## Full-Stack Developer, Natixis CIB - Credit Risks
-**September 2024 - Present** | Finance
+**September 2025 - Present** | Finance
 
 As a developer, I contribute to the development and redesign of applications for credit risk management:
 
