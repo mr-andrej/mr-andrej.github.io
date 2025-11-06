@@ -8,27 +8,38 @@ description: "Programming languages, frameworks, and technologies"
 - **C#** - Proficient
 - **Java EE** - Proficient
 - **TypeScript** - Familiar
-- **PHP** - Familiar
 - **JavaScript** - Familiar
+- **PHP** - Familiar
 
 ---
 
-## Technologies & Frameworks
+## Frameworks
+#### Back-end
+- **.NET Core** - C#
+- **Struts** - Java
 
-- **.NET Framework** & **.NET Core**
-- **React** - Front-end development
-- **Struts** - Java web framework
-- **Hibernate** - ORM
-- **Docker** - Containerization
-- **Azure DevOps** - CI/CD
-- **Jenkins** - CI/CD
+#### Front-end
+- **React** - TypeScript
+- **Next.js** - TypeScript
+
+---
+
+## Technologies
+#### DevOps
+- **Github Actions**
+- **Jenkins**
+- **XLDeploy**
+- **XLRelease**
+
+#### Containers
+- **Docker**
 
 ---
 
 ## Databases
 
 - **PostgreSQL**
-- **SQL Server**
+- **MySQL**
 
 ---
 
